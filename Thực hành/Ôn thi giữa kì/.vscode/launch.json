@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/hoanganhnguyen/Documents/DSA/Thực hành/Ôn thi giữa kì",
+      "program": "/Users/hoanganhnguyen/Documents/DSA/Thực hành/Ôn thi giữa kì/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}

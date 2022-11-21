@@ -1,0 +1,17 @@
+thi
+fstream
+fopen(file-path, ios::in)
+if(!f.isopen())
+{
+}
+else
+{
+}
+while(!f.eof())
+{
+getline(f, buffer)
+}
+f.get(c) // nhập ký tự (lấy mọi ký tự)
+getline (2 tham số)
+getline (3 tham số) (tham số thứ 3 là ký tự mình muốn bỏ qua)
+getline (string, buffer, 's')

@@ -1,0 +1,11 @@
+trong vòng lặp for thứ 3 đo đếm số phép so sánh
+1 hàm đo thời gian
+1 hàm đo số phép so sánh
+trườg hợp xấu nhất, tốt nhất
+biểu đồ đường thể hiện thời gian chạy
+x là n
+y là thời gian chạy
+biểu đồ thể hiện số phép so sánh gồm 3 cột với n:
+10000 50000 300000
+đánh giá nhận xét chung cho từng biểu đồ
+giải thích tại sao chạy nhanh, chậm ?
